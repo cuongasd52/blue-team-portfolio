@@ -1,0 +1,9 @@
+- Sender email: Accounts[.]Payable[@]groupmarketingonline[.]icu
+- Sender mail server:
+    - ADOUM01[.]groupmarketingonline[.]icu
+    - mail1[.]groupmarketingonline[.]icu
+- Return-path: 9ZTKYQdyZIim[@]BRAEMARHOWELLS[.]COM
+- Malicious domain: kennaroads[.]buzz
+- **Attachment hashes:**
+    - ba3c15267393419eb08c7b2652b8b6b39b406ef300ae8a18fee4d16b19ac9686
+    - 04ae3286641e71356ab3fb8e05cee0da58d94a7f6afe49620d24831db33d3441

@@ -1,5 +1,6 @@
 # Incident report
 
+Link to room: https://tryhackme.com/room/phishingemails5fgjlzxc
 Title: Spearphishing Email delivering malicious attachment - Greenholt PLC
 
 1. Summary: A sales executive at Greenholt PLC received an unexpected email impersonating a legitimate customer. Initial analysis confirmed a spearphishing attempt delivering a malicious attachment designed to compromise the victim system.
