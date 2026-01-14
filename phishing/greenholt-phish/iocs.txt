@@ -1,4 +1,4 @@
-Email: info@mutawamarine.com
-Reply-To: info@mutawamarine@mail.com
+Email: info[@]mutawamarine[.]com
+Reply-To: info[.]mutawamarine[@]mail[.]com
 IP: 192[.]119[.]71[.]157
 SHA256: 2e91c533615a9bb8929ac4bb76707b2444597ce063d84a4b33525e25074fff3f
